@@ -1,0 +1,21 @@
+nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 50vw;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
